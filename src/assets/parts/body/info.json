@@ -1,0 +1,12 @@
+{
+    "name": "主体",
+    "id": "body",
+    "description": "产品的主体部分",
+    "imageUrl": "/images/body.jpg",
+    "position": {
+        "y": 0
+    },
+    "dimensions": {
+        "radius": 0.5
+    }
+} 

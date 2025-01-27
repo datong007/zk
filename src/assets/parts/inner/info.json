@@ -1,0 +1,14 @@
+{
+    "name": "内件",
+    "id": "inner",
+    "description": "产品的内件部分",
+    "imageUrl": "/images/inner.jpg",
+    "position": {
+        "y": -6
+    },
+    "dimensions": {
+        "width": 1.5,
+        "height": 0.8,
+        "depth": 0.8
+    }
+} 

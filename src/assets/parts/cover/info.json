@@ -1,0 +1,13 @@
+{
+    "name": "盖子",
+    "id": "cover",
+    "description": "产品的盖子部分",
+    "imageUrl": "/images/cover.jpg",
+    "position": {
+        "y": 3
+    },
+    "dimensions": {
+        "radius": 0.5,
+        "height": 2
+    }
+} 

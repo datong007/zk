@@ -1,0 +1,14 @@
+{
+    "name": "前扣",
+    "id": "front-lock",
+    "description": "产品的前扣部分",
+    "imageUrl": "/images/front-lock.jpg",
+    "position": {
+        "y": 6
+    },
+    "dimensions": {
+        "width": 0.6,
+        "height": 0.6,
+        "depth": 0.6
+    }
+} 
